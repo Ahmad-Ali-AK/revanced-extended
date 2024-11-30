@@ -5,11 +5,11 @@
     "options": [
       {
         "key": "PackageNameYouTube",
-        "value": "yt.rvx.noname.exe"
+        "value": "yt.rvx.ak.exe"
       },
       {
         "key": "PackageNameYouTubeMusic",
-        "value": "ytm.rvx.noname.exe"
+        "value": "ytm.rvx.ak.exe"
       }
     ]
   }
